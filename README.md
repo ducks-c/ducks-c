@@ -7,4 +7,4 @@ I'm Daksh. I study Information Technology at Curtin University Dubai. I am a pas
 
 On the side, I also love creating things! I do graphic designing, photography and am always looking for other forms of visual arts. You can view some of my work on my (very wip) [website](https://daksh.straw.page/)
 
-[![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducks-c&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Daksh's GitHub stats](./profile/stats.svg)
